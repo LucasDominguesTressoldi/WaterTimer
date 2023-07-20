@@ -1,4 +1,4 @@
-### WaterTimer💧
+# WaterTimer💧
 
 📱 An Android application that will remind you, every 45 minutes, to drink water
 
