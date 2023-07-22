@@ -11,7 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#FFFAFA"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -22,6 +24,11 @@
       },
       "package": "com.lucastressoldi.watertimer",
       "VersionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "93ad7ced-dc38-460f-97fb-94c324e2c228"
+      }
     }
   }
 }
