@@ -4,7 +4,7 @@ import { View, Text, TouchableOpacity, Alert } from "react-native";
 import MaterialCommunityIcons from "@expo/vector-icons/MaterialCommunityIcons";
 
 export default function Timer() {
-  const time = 45 * 60;
+  const time = 10;
   const [timeLeft, setTimeLeft] = useState(time);
   const [isRunning, setIsRunning] = useState(false);
 
